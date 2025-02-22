@@ -1,0 +1,4 @@
+easyocr
+langchain
+flask
+numpy
