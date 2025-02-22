@@ -2,3 +2,6 @@ easyocr
 langchain
 flask
 numpy
+cv2
+faiss-cpu
+pymupdf 
